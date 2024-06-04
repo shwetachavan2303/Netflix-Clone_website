@@ -1,0 +1,11 @@
+section {
+    flex-wrap: wrap;
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    height: auto;;
+}
+
+section .nav{
+    color: aqua;
+}
